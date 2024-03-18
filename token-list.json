@@ -27,26 +27,10 @@
       "chainId": 422,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-
-
-    {
-      "name": "MATIC Token",
-      "symbol": "MATIC",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
-      "chainId": 422,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
-    },
-
-    {
-      "name": "BNB Token",
-      "symbol": "BNB",
-      "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
-      "chainId": 422,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     }
+
+
+
     
 
   ]
